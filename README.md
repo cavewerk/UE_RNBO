@@ -1,3 +1,14 @@
+# UE_RNBO README
+
+### Link to video tutorial: https://youtu.be/UNz12D4YEYo
+
+### Prerequisites
+- Unreal Engine 5.3.2
+- Visual Studio
+- Max/Msp and RNBO
+
+## Step-by-step Guide to Project Setup
+
 ### 1. Download Template Project
 https://assets.cycling74.com/rnbo/unreal-engine/example-projects/rnbo.metasounds.testproj-08.13.24.zip
 
